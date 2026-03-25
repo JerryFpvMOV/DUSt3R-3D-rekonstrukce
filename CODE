@@ -15,6 +15,14 @@
 
 
 # =========================
+# 2.1 HEIC support (důležité pro iPhone fotky)
+# =========================
+!pip install -r /content/dust3r/requirements_optional.txt
+
+# přidá podporu pro HEIC obrázky + další volitelné funkce
+
+
+# =========================
 # 3. Úprava demo (share=True)
 # =========================
 !sed -i 's/share=False/share=True/g' /content/dust3r/dust3r/demo.py
