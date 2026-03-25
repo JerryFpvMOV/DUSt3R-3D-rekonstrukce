@@ -2,7 +2,7 @@
 
 Ukázková data stáhni zde:
 
-----> [Download data](https://tvuj-link-na-data)
+----> [Stáhnout data]([https://tvuj-link-na-data](https://we.tl/t-6pzLVdyhiKaaBK7S))
 
 Po stažení:
 - rozbal soubor
