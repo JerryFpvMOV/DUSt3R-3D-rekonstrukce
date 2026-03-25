@@ -90,7 +90,7 @@ Tímto se vytvoří veřejný odkaz
 ---
 
 
-![Preview](asset/preview.png)
+![Preview](data/asset/02.png)
 
 ## Zdroj
 
