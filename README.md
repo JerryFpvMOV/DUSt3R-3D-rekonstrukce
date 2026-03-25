@@ -90,7 +90,7 @@ Tímto se vytvoří veřejný odkaz
 ---
 
 
-![Preview](data/asset/01.png.webp)
+![Preview](DUSt3R-3D-rekonstrukce/data/asset/01.png.webp)
 
 ## Zdroj
 
