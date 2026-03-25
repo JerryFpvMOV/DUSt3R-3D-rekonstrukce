@@ -89,6 +89,9 @@ Tímto se vytvoří veřejný odkaz
 
 ---
 
+
+![Preview](assets/preview.png)
+
 ## Zdroj
 
 https://github.com/naver/dust3r
